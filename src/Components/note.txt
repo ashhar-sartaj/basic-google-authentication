@@ -1,0 +1,1 @@
+we will only be showing the homescreen only if the user is logged in. So, we will make use of the protected route.
