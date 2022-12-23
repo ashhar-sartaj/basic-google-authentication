@@ -6,7 +6,7 @@ import Login from './Components/Login'
 import Signup from './Components/Signup'
 import ProtectedRoute from './Components/ProtectedRoute'
 import Home from './Components/Home'
-import { UserAuthContextProvider } from './context/UserAuthContext'
+import { UserAuthContextProvider } from './Context/userAuthContext'
 function App() {
   return (
     <>
